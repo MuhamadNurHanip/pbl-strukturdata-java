@@ -1,6 +1,5 @@
 class evaComel{
     String evaElek
-
 }
 
 void main{
